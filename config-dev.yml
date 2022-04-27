@@ -1,1 +1,2 @@
-I'm config-dev.yml -version = 3
+config
+  info: "I'm config-dev.yml -version = 3"
